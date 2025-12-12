@@ -1,0 +1,14 @@
+islamic-app/
+├── public/
+│   ├── quran.json
+│   ├── duas.json
+│   └── tasbeehs.json
+├── src/
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── Quran.js
+│   │   ├── Prayer.js
+│   │   └── Tasbeeh.js
+│   └── App.js
+├── package.json
+└── README.md
