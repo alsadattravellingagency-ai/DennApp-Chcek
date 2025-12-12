@@ -1,0 +1,16 @@
+{
+  "surahs": [
+    {
+      "number": 1,
+      "name": "الفاتحة",
+      "translation": "Surah Al-Fatihah - The Opening",
+      "verses": 7
+    },
+    {
+      "number": 2,
+      "name": "البقرة",
+      "translation": "Surah Al-Baqarah - The Cow",
+      "verses": 286
+    }
+  ]
+}
